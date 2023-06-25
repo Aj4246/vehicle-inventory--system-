@@ -1,0 +1,2 @@
+Make	Model	Year	Color	Mileage
+Royal Enfield	GT 650	2020	GREY 	35
